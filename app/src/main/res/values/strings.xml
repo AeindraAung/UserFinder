@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+    <string name="hint_currency_amount">1.00</string>
+</resources>
